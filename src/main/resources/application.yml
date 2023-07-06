@@ -1,8 +1,8 @@
 spring:
   datasource:
-    url: jdbc:sqlserver://javatechie.database.windows.net:1433;database=javatechiedb;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
-    username: javatechie
-    password: password@123
+    url: jdbc:sqlserver://demo-server-vikesh-107.database.windows.net:1433;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+    username: vikesh107
+    password: vikesh@107
   jpa:
     show-sql: true
     hibernate:
